@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.class
+# Ignore IDE files (e.g. IntelliJ IDEA)
+.idea/
+*.iml
+# Ignore log files
+*.log
+# Ignore operating system files
+.DS_Store
